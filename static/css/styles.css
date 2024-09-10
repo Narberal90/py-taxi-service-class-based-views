@@ -1,3 +1,14 @@
 body {
     margin-top: 20px;
+    background-color: #e7eeee;
+}
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border-top: 1px solid #757373;
+  border-bottom: 1px solid #757373;
+  /* Встановлюємо межі лише зверху і знизу */
+  padding: 10px;
 }
