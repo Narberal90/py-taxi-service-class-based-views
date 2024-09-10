@@ -9,6 +9,5 @@ table {
 th, td {
   border-top: 1px solid #757373;
   border-bottom: 1px solid #757373;
-  /* Встановлюємо межі лише зверху і знизу */
   padding: 10px;
 }
